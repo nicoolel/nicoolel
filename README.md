@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Nicole ✨</h1>
 <h3 align="center">A fullstack JavaScript developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/nicoleleedev" target="blank"><img src="https://img.shields.io/twitter/follow/nicoleleedev?logo=twitter&style=for-the-badge" alt="nicoleleedev" /></a> </p>
-
 - 🔭 I’m currently working on **a digital habit tracker app**
 
 - 🌱 I’m currently learning **React and TypeScript**
