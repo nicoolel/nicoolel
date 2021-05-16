@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a digital habit tracker app**
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **nicolees1123@gmail.com**
 
