@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Nicole ✨</h1>
 <h3 align="center">A fullstack JavaScript developer.</h3>
 
-- 🔭 I’m currently working on **a digital habit tracker app**
+- 🔭 I’m currently working on **an recipe social media app**
 
 - 🌱 I’m currently learning **React**
 
