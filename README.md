@@ -12,9 +12,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoolel&show_icons=true&locale=en&layout=compact" alt="nicoolel" /></p> -->
 
-<div>
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nicoolel&theme=nord)" alt="nicoolel" />
+<div align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nicoolel&theme=nord" alt="nicoolel" />
 </div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoolel&" alt="nicoolel" /></p> -->
-
