@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nicole ✨</h1>
-<p align="center">A full stack developer</p>
+<h4 align="center">A full stack developer who loves </h4>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
@@ -13,7 +13,9 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoolel&show_icons=true&locale=en&layout=compact" alt="nicoolel" /></p> -->
 
 <div align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nicoolel&theme=vue" alt="nicoolel" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nicoolel&theme=tokyonight_duo" alt="nicoolel" />
 </div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoolel&" alt="nicoolel" /></p> -->
+
+
