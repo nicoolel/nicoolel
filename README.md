@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nicole ✨</h1>
-<h4 align="center">A full stack developer who loves </h4>
+<h4 align="center">A full stack developer based in Vancouver </h4>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
